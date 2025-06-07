@@ -1,6 +1,8 @@
 import streamlit as st
 import unicodedata
 import os
+import torch
+import docx
 import pandas as pd
 import numpy as np
 from transformers import GPT2LMHeadModel, GPT2TokenizerFast
