@@ -3,7 +3,6 @@ import unicodedata
 import os
 import pandas as pd
 import numpy as np
-import torch
 from transformers import GPT2LMHeadModel, GPT2TokenizerFast
 import re
 from collections import Counter
