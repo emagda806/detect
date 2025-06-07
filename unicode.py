@@ -1,6 +1,5 @@
 import streamlit as st
 import unicodedata
-import docx
 import os
 import pandas as pd
 import numpy as np
