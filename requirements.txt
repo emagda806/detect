@@ -1,3 +1,4 @@
 python-docx
 torch
 transformers
+plotly
